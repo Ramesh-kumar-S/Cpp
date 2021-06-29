@@ -4,10 +4,10 @@ C++ Practice Repo
 
 Have Implemented the Oops Concepts Like 
 
-1) Class
-2)Object Creation
-3) Access Specifiers
-4)Inheritance
+1. Class
+2.Object Creation
+3. Access Specifiers
+4.Inheritance
                 a)Multiple Inheritance
                 b)Multilevel Inheritance
 5)Polymorphism
