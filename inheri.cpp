@@ -7,18 +7,29 @@ class car{                                  //Base Class
         int price;
         int rating;
         
-        void honk()
+        int honk()
         {
             
             cout<<"Horn ..Horn!!!!"<<endl<<endl;
+            return 1;
+        }
+        void test()
+        {
+
         }
 };
 class stati{
+    private:
+        int test;
     public:
         // string polo="20.5";
         void stats(){
             string polo="20.5";
             cout<<"!!! "<<polo <<" People's are using POLO !!!"<<endl;
+        }
+        void test()
+        {
+
         }       
 };
 
@@ -74,6 +85,7 @@ int main()
  cout<<"The Discount for Polo is : "<<p.getdis()<<endl;
  pg.gt1();
  p.honk();
+ p.test();
  p.usage();
  
 
